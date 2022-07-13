@@ -1,4 +1,25 @@
-### Hi there 👋
+Hi there 👋 <br>
+- I'm ...
+    - :jp: Masaharu Suizu :jp:
+    - Software developer & DBA
+
+- Skill set
+    - Perl
+    - PHP
+    - Python
+    - HTML
+    - javascript
+    - Bash
+    - RDBMS (Oracle, MySQL, postgreSQL)
+    - SQL
+
+- Currently learning ...
+    - DNS
+    - Network
+    - System redundancy
+
+
+
 
 <!--
 **masaharu-suizu/masaharu-suizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
